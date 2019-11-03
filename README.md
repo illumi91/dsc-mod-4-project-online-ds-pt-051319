@@ -2,9 +2,9 @@
 
 ## Files 
 
-- Northwind_small.sqlite: Raw Data
-- Project_Northwind_db.ipynb: Notebook for Analysis
-- Presentation.pdf: Slide presention
+- zillow_data.csv: Raw Data
+- mod_4_starter_notebook.ipynb: Notebook for Analysis
+- presentation_zillow.pdf: Slide presention
 
 ## Introduction
 
